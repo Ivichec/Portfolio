@@ -1,0 +1,15 @@
+/* the #id of your div */
+.particles-js {
+    /* stay in a constant spot on the page, regardless of scroll */
+    position: fixed;
+    /* fill the entire page */
+    width: 100%;
+    height: 100%;
+    /* remove the space along the edges */ 
+    margin: 0;
+    padding: 0;
+    /* position it to start at the top of the page */
+    top: 0;
+    /* put it behind other content */
+    z-index: -1;
+}

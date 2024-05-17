@@ -1,8 +1,5 @@
 {
-  "devDependencies": {
-    "tailwindcss": "^3.4.3"
-  },
   "dependencies": {
-    "flowbite": "^2.3.0"
+    "particles.js": "^2.0.0"
   }
 }
